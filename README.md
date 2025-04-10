@@ -1,4 +1,4 @@
-# stable-weather-balloon
+# Passively Stabilized Weather Balloon
 A weather balloon designed to gather stable footage and photographs in the upper atmosphere
 
 ![image](https://github.com/user-attachments/assets/fa51de26-ffaf-4fe9-9e10-26951138e545)
